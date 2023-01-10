@@ -1,0 +1,48 @@
+h1{
+    color: black;
+    margin: 0px;
+}
+
+.adminNavbar{
+    background-color: rgb(40, 114, 95);
+    
+  
+    height: 110px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: sticky;
+    top: 0cm;
+}
+
+
+
+
+
+.logo img{
+    border-radius: 50%;
+    margin: 10px;
+}
+
+.adminNavbar li{
+    display: flex;
+    display: inline;
+  
+}
+
+.adminNavbar a{
+    margin: 8px;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
+
+
+.links a:hover{
+    
+    background-color: black;
+    color: aliceblue;
+}
+
+
+

@@ -1,0 +1,62 @@
+
+.userlogin{
+    margin: 0;
+    background-image: url('../../public/image/bg2.jpg');
+    background-size: cover;
+    height: 80vh;
+    padding-top: 9%;
+}
+.logincard{
+    background-color: rgb(72,159,169);
+    opacity: 10;
+    width: 40%;
+    margin: auto;
+    height: 50%;
+    box-shadow: 10px 10px 10px rgb(4, 53, 52);
+    align-items: center;
+    border-radius: 20px;
+    
+   
+    
+
+}
+
+input{
+    width: 200px;
+    height: 20px;
+    border-radius: 10px;
+    margin: 20px;
+    justify-content: center;
+    border: none;
+
+   
+}
+
+label{
+    display: block;
+    text-align: right;
+    color: aliceblue;
+}
+
+.form{
+    margin-right: 170px;
+    /* justify-content: center; */
+ 
+    
+}
+
+button{
+    margin-left: 180px;
+    background-color: rgb(255, 255, 255);
+    width: 70px;
+    border: none;
+    border-radius: 10px;
+}
+
+.form form{
+    margin-bottom: 30px;
+}
+
+.logincard h1{
+    color: rgb(255, 255, 255);
+}

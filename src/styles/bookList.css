@@ -1,0 +1,105 @@
+
+
+/* .book_card h4{
+    color: rgb(255, 0, 0);
+    
+}
+
+.book_card:hover{
+    background-color: rgb(215, 232, 232);
+}
+
+
+
+.bookList h1{
+    color: rgb(26, 26, 58);
+} */
+
+
+
+.book_card{
+    display: flex;
+    border: 0px solid rgb(191, 191, 191); 
+    height: 400px;
+    width: 800px;
+    margin: auto;
+    margin-bottom: 10px;
+    align-items: center;
+    justify-content: left;
+
+    text-align: center;
+    background-color: rgba(225, 218, 218, 0.195);
+    box-shadow: 10px 10px 10px  rgb(225, 218, 218);
+    
+    
+}
+
+.book_section{
+    margin-bottom: 10px;
+}
+
+
+.details{
+  display: inline-block;
+   align-items: center;
+  text-align: center;
+  margin: auto;
+
+  
+}
+
+.photo{
+    justify-content: center;
+    padding-top: 10px;
+   
+}
+
+.photo img{
+    height: 300px;
+    width: 200px;
+
+    
+   
+    
+}
+
+.book_card button{
+    border: 1px solid rgb(40, 114, 95);
+    width: 100px;
+    color: rgb(255, 0, 0);
+    height: 40px;
+    margin-bottom: 10px;
+    padding-left: 0px;
+  
+}
+
+.details button{
+   margin: auto;
+   
+}
+
+.bookList{
+    background-color: rgb(253, 253, 253);
+}
+
+.details h4{
+    font-size: 30px;
+    
+}
+
+.details h6{
+    color: rgb(94, 92, 92);
+    font-size: 20px;
+}
+
+
+.book_card:hover{
+    background-color: rgba(255, 228, 196, 0.179);
+}
+
+.but{
+    display: flex;
+    justify-content: space-between;
+
+    
+}

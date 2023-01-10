@@ -1,0 +1,58 @@
+ .landingpage{
+    margin: 0;
+    background-image: url(../../public/image/bg.jpg);
+
+    
+    height: 90vh;
+    padding-top: 7%;
+    background-size: cover;
+    
+
+}
+
+.main{
+    width: 400px;
+    height: 250px;
+    text-align: center;
+    margin: auto;
+    background-color: white;
+    padding: 10%;
+    box-shadow: 10px 10px 10px rgb(153, 185, 153);
+    
+}
+
+.main h1{
+    margin: 0;
+    padding: 0;
+    color: black;
+    
+}
+
+.selection{
+    display: flex;
+    margin-top: 50px;
+    justify-content: space-evenly;
+}
+
+.selection img{
+    padding: 0px;
+    
+}
+
+.selection a{
+    text-decoration: none;
+    border: 1px solid rgb(53, 97, 228);
+    color: black;
+    padding: 5px;
+    
+} 
+
+.logolink{
+
+    display: flex;
+    justify-content: space-around;
+}
+
+
+
+
