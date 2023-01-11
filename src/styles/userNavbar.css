@@ -3,7 +3,7 @@ h1{
     margin: 0px;
 }
 
-.adminNavbar{
+.userNavbar{
     background-color: rgb(68, 198, 139);
     margin: 0;
     /* background-image: url('../../public/image/bg.jpg'); */
@@ -29,13 +29,13 @@ h1{
     margin: 10px;
 }
 
-.adminNavbar li{
+.userNavbar li{
     display: flex;
     display: inline;
   
 }
 
-.adminNavbar a{
+.userNavbar a{
     margin: 8px;
     text-decoration: none;
     color: rgb(255, 255, 255);

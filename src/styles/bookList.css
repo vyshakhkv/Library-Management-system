@@ -94,7 +94,8 @@
 
 
 .book_card:hover{
-    background-color: rgba(255, 228, 196, 0.179);
+    background-color: rgba(0, 255, 191, 0.085);
+   
 }
 
 .but{
@@ -103,3 +104,15 @@
 
     
 }
+
+/* body{
+    margin: 0;
+    background-image: url('../../public/image/bg4.jpg');
+    background-size:cover;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+
+
+} */

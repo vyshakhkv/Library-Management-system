@@ -32,8 +32,9 @@ const AddBook = () => {
 
     return (
         <div className="addBook">
-            <h1>Add a Book</h1>
+            
             <div className="addBook_form">
+            <h1>Add Book</h1>
                 <form action="" onSubmit={handleSubmit}>
                     <div className="title">
                         <input type="text" value={title} placeholder="Title of the book" onChange={(e) => setTitle(e.target.value)} required />
@@ -48,10 +49,10 @@ const AddBook = () => {
                         <input placeholder="Page Count of the book" value={pageCount} onChange={(e) => setPage(e.target.value)} required type="number" />
                     </div>
                     <div className="shortDescription" >
-                        <textarea className="shortdes" value={shortDescription} placeholder="short Description" onChange={(e) => setShort(e.target.value)} cols="80" rows="10"></textarea>
+                        <textarea className="shortdes" value={shortDescription} placeholder="short Description" onChange={(e) => setShort(e.target.value)} cols="50" rows="9"></textarea>
                     </div>
                     <div className="longDescription">
-                        <textarea className="longdes" value={longDescription} placeholder="Long Description" onChange={(e) => setLong(e.target.value)} cols="80" rows="10"></textarea>
+                        <textarea className="longdes" value={longDescription} placeholder="Long Description" onChange={(e) => setLong(e.target.value)} cols="70" rows="10"></textarea>
                     </div>
                     <div className="thumbnailUrl">
                         <input type="text" value={thumbnailUrl} onChange={(e) => setUrl(e.target.value)} placeholder="thumbnail URL" />

@@ -8,6 +8,7 @@
 
 .addBook_form h1{
     color: rgba(103, 126, 121);
+    margin: auto;
 }
 
 .addBook_form button{
@@ -16,6 +17,7 @@
     border-radius: 0;
     width: 80px;
     height: 30px;
+    margin: auto;
     margin-bottom: 10px;
 }
 

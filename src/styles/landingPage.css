@@ -3,7 +3,7 @@
     background-image: url(../../public/image/bg.jpg);
 
     
-    height: 90vh;
+    height: 80vh;
     padding-top: 7%;
     background-size: cover;
     
@@ -51,7 +51,17 @@
 
     display: flex;
     justify-content: space-around;
+ 
 }
+.landingpage Link{
+    background-color: rgb(44, 146, 146);
+
+}
+
+.landingpage Link:hover{
+    background-color: blue;
+}
+
 
 
 

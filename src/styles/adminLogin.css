@@ -19,10 +19,11 @@
 
 }
 
-input{
+.adminlogin input{
     width: 200px;
     height: 20px;
     border-radius: 10px;
+    border: 0px solid black;
     margin: 20px;
     justify-content: center;
     border: none;
@@ -30,7 +31,7 @@ input{
    
 }
 
-label{
+adminlogin label{
     display: block;
     text-align: right;
     color: aliceblue;

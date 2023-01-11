@@ -1,26 +1,6 @@
 {
   "books": [
     {
-      "id": 2,
-      "title": "Android in Action, Second Edition",
-      "isbn": "1935182722",
-      "pageCount": 592,
-      "publishedDate": {
-        "$date": "2011-01-14T00:00:00.000-0800"
-      },
-      "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/ableson2.jpg",
-      "shortDescription": "Android in Action, Second Edition is a comprehensive tutorial for Android developers. Taking you far beyond \"Hello Android,\" this fast-paced book puts you in the driver's seat as you learn important architectural concepts and implementation strategies. You'll master the SDK, build WebKit apps using HTML 5, and even learn to extend or replace Android's built-in features by building useful and intriguing examples. ",
-      "longDescription": "When it comes to mobile apps, Android can do almost anything   and with this book, so can you! Android runs on mobile devices ranging from smart phones to tablets to countless special-purpose gadgets. It's the broadest mobile platform available.    Android in Action, Second Edition is a comprehensive tutorial for Android developers. Taking you far beyond \"Hello Android,\" this fast-paced book puts you in the driver's seat as you learn important architectural concepts and implementation strategies. You'll master the SDK, build WebKit apps using HTML 5, and even learn to extend or replace Android's built-in features by building useful and intriguing examples. ",
-      "status": "PUBLISH",
-      "authors": [
-        "W. Frank Ableson",
-        "Robi Sen"
-      ],
-      "categories": [
-        "Java"
-      ]
-    },
-    {
       "id": 3,
       "title": "Specification by Example",
       "isbn": "1617290084",
@@ -5336,20 +5316,6 @@
       "categories": []
     },
     {
-      "id": 519,
-      "title": "Multimedia Computing",
-      "isbn": "020152029X",
-      "pageCount": 0,
-      "publishedDate": {
-        "$date": "1993-09-01T00:00:00.000-0700"
-      },
-      "status": "PUBLISH",
-      "authors": [
-        "Matthew E. Hodges"
-      ],
-      "categories": []
-    },
-    {
       "id": 520,
       "title": "Web Development with JavaServer Pages",
       "isbn": "1884777996",
@@ -7064,16 +7030,6 @@
       "categories": []
     },
     {
-      "title": "a",
-      "categories": "a",
-      "authors": "a",
-      "pageCount": "1",
-      "shortDescription": "1sythjfkjhv",
-      "longDescription": "syrd",
-      "thumbnailUrl": "jgiu5",
-      "id": 797
-    },
-    {
       "title": "Harry Potter and the Cursed Child",
       "categories": "Fantacy",
       "authors": " J. K. Rowling",
@@ -7105,19 +7061,6 @@
       "email": "athulmon@gmail.com",
       "phonenumber": "9334517715",
       "id": 3
-    },
-    {
-      "id": 4
-    },
-    {
-      "id": 5
-    },
-    {
-      "name": "vyshakh",
-      "age": "22",
-      "email": "vyshakhvkv@gmail.com",
-      "phonenumber": "0493624880",
-      "id": 6
     },
     {
       "name": "Shameem",
